@@ -506,13 +506,13 @@ body:not(.user-is-tabbing) a:focus {
 }
 
 /* --------------------------------------- */
-/* ----- Clients ----- */
+/* ----- Linguages ----- */
 /* --------------------------------------- */
 
 .client__logos {
     display: flex;
     justify-content: space-between;
-    filter: invert(100%) grayscale(100%) opacity(.8) mix-blend-mode;
+    filter: invert(100%) grayscale(100%) opacity(.8);
 }
 
 .client__logo {
