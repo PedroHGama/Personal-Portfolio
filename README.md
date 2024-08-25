@@ -8,7 +8,7 @@
 
   <h2> 🛠️ Tecnologias</h2>
 
-### HTML, Sass & JavaScript:
+### HTML, CSS & JavaScript:
 Foi usado <b>HTML</b> para realizar a estrutura do projeto, <b>CSS</b> para estilização e <b>JavaScript</b> para validação de formulário, envio de e-mail e interatividade da aplicação.
 
 
